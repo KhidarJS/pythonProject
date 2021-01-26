@@ -1,6 +1,6 @@
-
 import random
 import nltk
+
 BOT_CONFIG = {
     'intents': {
         'hello': {
